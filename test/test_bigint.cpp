@@ -69,7 +69,7 @@ int main() {
     testMultiplication();
     testEquality();
     testSerialization();
-
+    testMLHooks();
     std::cout << "\n🎉 All tests passed successfully!\n";
     return 0;
 }
